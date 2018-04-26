@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="log_token">Log Token</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="notification_channel_important" translatable="true">Important Notification Channel</string>
+    <string name="important_title_notification" translatable="true">Important!</string>
+    <string name="important_notification_body" translatable="true">Please read this important text:</string>
+
+    <string name="notification_channel_default" translatable="true">Default Notification Channel</string>
+    <string name="default_title_notification" translatable="true">Normal notification</string>
+    <string name="default_notification_body" translatable="true">Read this text with no hurry:</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">NEW NOTIFICATION MOTHERFUCKER</string>
+</resources>
